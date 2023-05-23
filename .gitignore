@@ -1,0 +1,11 @@
+# Libs
+/node_modules
+
+# Deploy files
+/dist
+
+# Environments
+# src/environments/*
+
+# Temp files
+.dccache

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "cce2384e-e992-4911-9913-00dfccc8356d",
+    "name": "node-typescript-boilerplate",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-05-23T07:34:57.322Z",
+    "modified": "2023-05-23T07:34:57.322Z",
+    "data": [
+      {
+        "name": "API_URL",
+        "value": "http://localhost:8000/api/v1"
+      }
+    ]
+  }
+]
